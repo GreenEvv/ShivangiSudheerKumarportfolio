@@ -1,0 +1,13 @@
+.container-fluid ul{
+    flex-wrap:wrap;
+    justify-content:center;
+
+}
+.navbar a{
+   width: 5000px;
+
+}
+.Intro p{
+    margin-left: 500px;
+
+}
