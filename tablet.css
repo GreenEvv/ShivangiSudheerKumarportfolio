@@ -1,13 +1,30 @@
-.container-fluid ul{
-    flex-wrap:wrap;
-    justify-content:center;
-
-}
-.navbar a{
-   width: 5000px;
-
-}
 .Intro p{
-    margin-left: 500px;
+    color: goldenrod;
+    margin-left: 300px;
+    margin-right:200px;
 
+}
+.MyEducation img{
+   margin-left: -150px;
+
+}
+.MyEducation button{
+    margin-left: 200px;
+}
+.MyEducation h{
+    margin-left: 200px;
+}
+.MyAchievements p{
+    margin-left: -300px;
+    margin-right: 100px;
+}
+.MyAchievements img{
+    margin-left: -350px;
+}
+#MySkills h{
+   margin-left: -350px;
+   margin-right: 100px;
+}
+.skill button{
+    margin-left: 50px;
 }
