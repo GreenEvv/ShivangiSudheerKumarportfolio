@@ -1,0 +1,66 @@
+.topper{
+    margin-right: -650px;
+}
+nav-item { 
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.Pic img{
+   width: 20%;
+   height: 20%;
+margin-left: 300px;
+margin-top: 3rem;
+}
+.Intro p{
+    color: goldenrod;
+    margin-left: 600px;
+    margin-right: -200px;
+    text-align:justify;
+
+}
+#Aboutme{
+    margin-right: -300px;
+}
+#MyEducation button{
+    margin-left: 400px;
+    margin-right: -400px;
+}
+#MyEducation hr{
+    color:silver;
+    height:5px;
+    margin-right: -650px;
+}
+#MyEducation p{
+    margin-left: 100px;
+    margin-right: -400px;
+}
+#MyAchievements p{
+    margin-right: -300px;
+}
+#MyAchievements {
+    margin-right: -300px;
+    margin-left: -350px;
+}
+#MyAchievements img{
+    margin-left: -350px;
+}
+#MySkills h1{
+    margin-right: -600px;
+ }
+ #MySkills p{
+     margin-right: -600px;
+ }
+ .exp p{
+     margin-right: -600px;
+ }
+.skill {
+   margin-left: -50px;
+   margin-right: -700px;
+}
+#ContactMe h1{
+    margin-left: -100px;
+    margin-right: -100px;
+}
+.footer{
+    margin-right: -100px;
+}
